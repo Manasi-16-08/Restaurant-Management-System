@@ -1,9 +1,79 @@
-# Restaurant-Management-System
-The Restaurant Management System (RMS) is a sophisticated software solution designed to optimize and automate various aspects of restaurant operations. 
-With the growing demand for efficient management tools in the hospitality industry, this system offers a comprehensive set of features to meet the diverse needs of restaurant owners, managers, and staff. 
-The RMS provides a user-friendly interface tailored for seamless navigation and intuitive operation.
-Key functionalities include table management, order processing, employee management, and reporting. 
-Efficient table management tools allow users to handle reservations, monitor table availability, and manage dining areas effectively. 
-The order processing module facilitates smooth communication between waitstaff and kitchen staff, ensuring timely and accurate order fulfillment.
-The employee management module simplifies scheduling, tracks performance, and manages payroll, contributing to enhanced workforce productivity and accountability. 
-Robust reporting tools offer valuable insights into sales performance, customer preferences, and other key metrics, empowering restaurant owners and managers to make data-driven decisions and improve overall business performance.
+# Restaurant Management System
+
+The Restaurant Management System is a Java-based application designed to automate and manage daily restaurant operations efficiently. The system reduces manual effort by providing a structured and organized approach to handling orders, tables, and billing processes.
+
+---
+
+## Overview
+
+This project implements a functional restaurant management solution using core Java concepts. It demonstrates object-oriented programming principles, modular design, and effective user interaction through a simple interface suitable for academic and practical use.
+
+---
+
+## Features
+
+- Table management  
+- Order processing  
+- Billing system  
+- Workflow handling  
+- User-friendly interface  
+
+---
+
+## Technology Stack
+
+| Component | Technology |
+|---------|------------|
+| Programming Language | Java |
+| Development Environment | IntelliJ IDEA / Eclipse / NetBeans |
+| Interface Type | Console or GUI (as implemented) |
+
+---
+
+## Project Structure
+Restaurant-Management-System/
+├── build/
+├── project ss/
+├── src/
+│ └── Java source files
+├── .gitignore
+├── Java_Project.iml
+└── README.md
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Java Development Kit (JDK 8 or above)
+- Java-supported IDE (IntelliJ IDEA, Eclipse, or NetBeans)
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Manasi-16-08/Restaurant-Management-System.git
+cd Restaurant-Management-System
+```
+###Running the Application
+
+-Open the project in your preferred Java IDE.
+-Verify that the JDK is correctly configured.
+-Locate the main class inside the src directory.
+-Run the application from the IDE.
+
+###Usage
+
+-Start the application.
+-Follow the on-screen instructions or menu options.
+-Manage restaurant activities such as order placement and billing.
+
+###Contributions
+
+Contributions are welcome. You may fork the repository, enhance the functionality, and submit a pull request with proper documentation of the changes.
+
+###Author
+
+Manasi Tawade
+GitHub: https://github.com/Manasi-16-08
+
