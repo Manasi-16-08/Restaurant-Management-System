@@ -32,21 +32,17 @@ This project implements a functional restaurant management solution using core J
 
 ## Project Structure
 
+## Project Structure
+
 Restaurant-Management-System/
+├── build/                 # Build files
+├── project ss/            # Project screenshots or assets
+├── src/                   # Java source files
+│   └── ...                # Contains all Java code
+├── .gitignore             # Git ignore rules
+├── Java_Project.iml       # IntelliJ project file
+└── README.md              # Project documentation
 
-├── build/
-
-├── project ss/
-
-├── src/
-
-│ └── Java source files
-
-├── .gitignore
-
-├── Java_Project.iml
-
-└── README.md
 
 ---
 
