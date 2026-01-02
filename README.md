@@ -55,25 +55,36 @@ Restaurant-Management-System/
 git clone https://github.com/Manasi-16-08/Restaurant-Management-System.git
 cd Restaurant-Management-System
 ```
-###Running the Application
+### Running the Application
 
 -Open the project in your preferred Java IDE.
 -Verify that the JDK is correctly configured.
 -Locate the main class inside the src directory.
 -Run the application from the IDE.
 
-###Usage
+### Usage
 
 -Start the application.
+
 -Follow the on-screen instructions or menu options.
+
 -Manage restaurant activities such as order placement and billing.
 
-###Contributions
+### Contributions
 
-Contributions are welcome. You may fork the repository, enhance the functionality, and submit a pull request with proper documentation of the changes.
+-Contributions are welcome. To contribute:
 
-###Author
+-Fork this repository.
+
+-Create a new feature branch.
+
+-Make your changes and commit them with clear messages.
+
+-Submit a Pull Request for review.
+
+### Author
 
 Manasi Tawade
+
 GitHub: https://github.com/Manasi-16-08
 
